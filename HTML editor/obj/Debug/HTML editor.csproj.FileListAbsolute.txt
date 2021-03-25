@@ -1,0 +1,10 @@
+C:\Users\Daniil\source\repos\HTML editor\HTML editor\bin\Debug\HTML editor.exe.config
+C:\Users\Daniil\source\repos\HTML editor\HTML editor\bin\Debug\HTML editor.exe
+C:\Users\Daniil\source\repos\HTML editor\HTML editor\bin\Debug\HTML editor.pdb
+C:\Users\Daniil\source\repos\HTML editor\HTML editor\obj\Debug\HTML editor.csprojAssemblyReference.cache
+C:\Users\Daniil\source\repos\HTML editor\HTML editor\obj\Debug\HTML_editor.Form1.resources
+C:\Users\Daniil\source\repos\HTML editor\HTML editor\obj\Debug\HTML_editor.Properties.Resources.resources
+C:\Users\Daniil\source\repos\HTML editor\HTML editor\obj\Debug\HTML editor.csproj.GenerateResource.cache
+C:\Users\Daniil\source\repos\HTML editor\HTML editor\obj\Debug\HTML editor.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\HTML editor\HTML editor\obj\Debug\HTML editor.exe
+C:\Users\Daniil\source\repos\HTML editor\HTML editor\obj\Debug\HTML editor.pdb
